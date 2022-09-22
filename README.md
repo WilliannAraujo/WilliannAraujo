@@ -1,6 +1,6 @@
 Olá!
 
-Sou o Willian Araujo, tenho 27 anos, sou estudante de  programação no #devclub, atualmente estou aprenden e criando projetos com: 
+Sou o Willian Araujo, tenho 27 anos, sou estudante de  programação no #devclub, atualmente estou aprendendo e criando projetos com: 
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
